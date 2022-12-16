@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @noahr1201
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-noahr1201/noahr1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Developing and Designing software
+- 🌱 I’m currently learning HTML , CSS and JavaScript
+- 📫 How to reach me <a href="https://linktr.ee/noahr1201">LinkTree</a>
