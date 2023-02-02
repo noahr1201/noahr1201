@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @noahr1201
 - 👀 I’m interested in Developing and Designing software
-- 🌱 I’m currently learning HTML , CSS and JavaScript
+- 🌱 I’m currently learning HTML , CSS, JavaScript and Swift
 - 📫 How to reach me: <a href="https://linktr.ee/noahr1201">LinkTree</a>
