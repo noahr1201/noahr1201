@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @noahr1201
 - 👀 I’m interested in Developing and Designing software
 - 🌱 I’m currently learning HTML , CSS, JavaScript and Swift
+- 📚 My portfolio: <a href="https://www.notion.so/noahvree/Portfolio-918863519f74464c9995bd1b72681fe0">Notion</a>
 - 📫 How to reach me: <a href="https://linktr.ee/noahr1201">LinkTree</a>
